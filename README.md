@@ -9,3 +9,4 @@
 CSS3, HTML5
 
 ## Ссылка на github pages:
+https://itauiti.github.io/responsive-portfolio/
